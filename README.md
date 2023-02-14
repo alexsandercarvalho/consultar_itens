@@ -1,4 +1,3 @@
-Problema
 Você foi contratado como desenvolvedor sênior pela Cubos Games, uma empresa da Cubos voltada ao desenvolvimento de jogos.
 
 Você é responsável por implementar a função que mostra ao jogador do novo jogo que será lançado a quantidade de um determinado item, coletado durante o jogo, que ele possui. Por exemplo, um jogador pode querer saber a quantidade de capas ou a quantidade de espadas que ele tem em sua mochila (local no jogo onde os itens são guardados).
